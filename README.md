@@ -18,12 +18,15 @@ A RESTful API for the Orange Sensors project.
 ##Further Information 
 
 *Due to the way CQL databases handle string queries, calls to the database using the API are case sensitive. 
-Example: A distinction is made between /find/measures/DISTANCE and find/measures/Distance
-*At present, due to the API's public status, only .get() calls have been implemented. 
-Likewise, this is also true for the Java API which can be found [here](https://github.com/GulliverJ/OrangeSensorsJavaAPI). 
-This however, is open to expansion. 
+*Example: A distinction is made between /find/measures/DISTANCE and find/measures/Distance
 
-#LIVE@ https://orange-peel.herokuapp.com/sensors/
+*At present, due to the API's public status, only .get() calls have been implemented. 
+*Likewise, this is also true for the Java API which can be found [here](https://github.com/GulliverJ/OrangeSensorsJavaAPI). 
+*This however, is open to expansion. 
+
+###Check it out: 
+#LIVE@
+### https://orange-peel.herokuapp.com/sensors/
 
 
 
