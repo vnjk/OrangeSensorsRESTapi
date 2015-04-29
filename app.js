@@ -180,12 +180,6 @@ router.route('/history/from/:id/:date')
 	});
 
 
-
-
-
-
-
-
 var rangefinder = function(start,end){
 
 	var i;
